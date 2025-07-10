@@ -1,0 +1,66 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
+# Packages/
+# Package.pins
+# Package.resolved
+#
+# Xcode automatically generates this directory with a .xcworkspacedata file and xcuserdata
+# hence it is not needed unless you have added a package configuration file to your project
+# .swiftpm
+.build/
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However, it is
+# not uncommon to do so. You may want to track the Pods directory if you are working
+# in a team to ensure that all members have the same versions of the pods.
+# Otherwise, you may want to ignore it to avoid bloating your repository.
+#
+# Pods/
+
+# Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+# Carthage/
+
+# fastlane
+#
+# It is recommended to not commit the fastlane folder to your repository
+# However, you may want to commit your Fastfile to shared settings with your team
+#
+# fastlane/
+
+# Virtual Environments
+#
+# It is recommended to not commit virtual environments to your repository
+#
+# .env
+# .venv
+#
+
+# Build generated
+DerivedData/
+build/
+
+# Other
+.DS_Store
