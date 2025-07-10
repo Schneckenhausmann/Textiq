@@ -1,7 +1,7 @@
 # Textiq - Professional Social Media Post Creator
 
 <div align="center">
-  <img src="Textiq/Assets.xcassets/icon_512x512.imageset/icon_512x512.png" alt="Textiq Icon" width="120" height="120">
+  <img src="docs/assets/icon_512x512.png" alt="Textiq Icon" width="120" height="120">
   <h3>Craft elegant social media descriptions with special formatting and hashtag management</h3>
   <p>
     <img src="https://img.shields.io/badge/platform-macOS-blue.svg" alt="Platform">
